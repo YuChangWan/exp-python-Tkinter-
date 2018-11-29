@@ -27,8 +27,8 @@ class App:
             )
         c2.pack()
         
-        #The checkbutton with an integer variable has been non-checked as default.
-        #But the checkbutton with a string variable has been checked as default.
+        #The checkbutton with an integer variable has been non-checked as a default.
+        #But the checkbutton with a string variable has been checked as a default.
         #So to prevent confusion, deselect all button, primarily. 
         c.deselect()
         c2.deselect()
