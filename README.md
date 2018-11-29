@@ -1,9 +1,17 @@
 # exp-python-Tkinter-
 several experience of Tk interfaces 
 
+I refenced the site http://effbot.org/tkinterbook/
+
+But codes in this site are usable on *python2.x*
+
+So I'm porting those to be usable on *python3.x*
+
+------------------------------------------
+
 It's my daily coding to get used to build python interfaces. 
 
-Codes are usable with python3.6 ~.
+Codes would be usable on python3.6 ~
 
 But I don't assure you that codes are working correctly.
 
