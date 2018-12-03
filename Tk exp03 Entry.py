@@ -20,7 +20,7 @@ class App:
         b3 = Button(master, text='get', width=10, command=lambda:self.callback2(self.var))
         b4 = Button(master, text='get', width=10, command=lambda:self.callback2(e))
         
-        #if callback just print someting, defining callback isn't necessary
+        #if callback just print something, defining callback isn't necessary
         b5 = Button(master, text='get', width=10, command=lambda:print(e.get()))
         b.pack()
         b2.pack()
